@@ -72,3 +72,25 @@ Police : Barlow
 - Taupe : `#B6A299`
 - Blanc : `#FFFFFF`
 - Noir : `#000000`
+  ## Prototype interactif
+
+Le prototype a été réalisé sur Figma avec des interactions permettant de simuler le parcours utilisateur.
+
+### Parcours principal
+
+Accueil → Produit → Ajouter au panier → Commande
+
+Le parcours a été décliné en version Desktop et Mobile.
+
+## Design System
+
+Le projet comprend un Design System regroupant :
+
+- la palette de couleurs ;
+- les styles typographiques ;
+- les boutons ;
+- le User Flow.
+
+## Lien vers la maquette Figma
+
+[Voir la maquette et le prototype sur Figma](https://www.figma.com/proto/DhGHwPy5SByhU4rjbV5TMv/Probeats-%E2%80%93-Maquette-site-e-commerce?node-id=20-41&t=VGzefKt8Z846fcR9-1)
